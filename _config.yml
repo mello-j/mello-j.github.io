@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Justin Mello
-title: [Online Course Technologist](https://www.boisestate.edu/ecampus-center/contact/development-and-support-team/#:~:text=program%20master%20courses.-,Justin%20Mello,-Online%20Course%20Technologist)
+title: "[Online Course Technologist](https://www.boisestate.edu/ecampus-center/contact/development-and-support-team/#:~:text=program%20master%20courses.-,Justin%20Mello,-Online%20Course%20Technologist)"
 email: justin_mello@outlook.com
 website: https://mello-j.github.io/
 
@@ -47,7 +47,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: [Online Course Technologist](https://www.boisestate.edu/ecampus-center/contact/development-and-support-team/#:~:text=program%20master%20courses.-,Justin%20Mello,-Online%20Course%20Technologist)
+        title: "[Online Course Technologist](https://www.boisestate.edu/ecampus-center/contact/development-and-support-team/#:~:text=program%20master%20courses.-,Justin%20Mello,-Online%20Course%20Technologist)"
         sub_title: Update me!
         caption: November 2017 - Present
         description: | # this will include new lines to allow paragraphs
