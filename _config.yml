@@ -19,7 +19,7 @@ github_username:  mello-j
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-linkedin_username: https://www.linkedin.com/in/justin-mello-1625jm
+linkedin_username: justin-mello-1625jm
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -44,7 +44,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello and welcome to my GitHub page! I am Justin Mello, a highly motivated and analytical professional with a diverse skill set in business analytics, project management, information technology, and customer support. 
+
+  This page aims to showcase some of my varied work experiences and professional and personal interests while highlighting the key elements I can bring to your organization.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -56,17 +58,13 @@ content:
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+         Throughout my career, I have demonstrated a strong ability to lead and manage projects to successful outcomes, focusing on efficient communication, collaboration, and strategy. These projects have varied from Higher Education, helping deliver University courses on tight timelines, and to the corporate world where production would have been significantly implemented if unsuccessful! 
+         In all these experiences I’ve learned that providing excellent support and communication throughout all stages of the project, to all stakeholders, can be just as important as the actual project “work”.
+
+For additional context and a brief accomplishments summary of my work career – please refer to my resume: [Justin Mello Resume](replace with resume link)
+
+If you like the format, please refer to the original template by Colin McIntosh (S&G CEO of Sheets & Giggles in Grand Junction, CO). His original blog post can be found here: [Sheets & Giggles is the fastest growing startup in CO!]( https://sheetsgiggles.com/blogs/news/sheets-and-giggles-fastest-growing-startup-in-colorado)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -86,27 +84,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Colorado Mesa University
+        caption: 2011 - 2013
+        sub_title: BA Criminal Justice: Minor - Psychology
+        
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+         I completed my education in Grand Junction, CO, graduating Summa Cum Laude with a GPA of 3.96 out of 4.0 on a 3 ½ year accelerated timeline. I earned a bachelor’s degree with a major in Criminal Justice and a minor in Psychology, encompassing over 142 credits. 
+         Throughout my studies, I took additional coursework in Research Methods and Statistics and ended up tutoring numerous students in both subject areas.
+         After a significant educational hiatus, I returned to school with the goal of completing a Bachelor of Science in Computer Science to expand my technical skills, knowledge of software development, databases, and mathematical analysis in the hopes of integrating all these skills and applying them in the business world. 
+         I hope to continue my studies in Graduate school after completing this second-degree program.
+         
+         Along with my formal education – I’ve taken advantage of training courses on Coursera, and LinkedIn Learning to obtain certificates in Data Analytics, Project Management, and hope to obtain a Business Intelligence certificate at the end of August.
+         These education opportunities have developed skill sets in a wide range of tools and technologies particularly Microsoft Office Suite, SQL, Java, JavaScript/Google Apps Script, and Python which I hope to use to automate tasks, analyze data, and produce value!
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Beyond my professional and educational pursuits, I am an Avid Skier and Snowboarder (averaging 40+ days on the hill a year!). 
+      Bogus Basin is one of the best values out there, but I’m always drawn to the Mountain ranges of the Teton, Wasatch, the Sierra Nevada, the Rockies, and a visit to the Blue over in Eastern Oregon. I’m still exploring the DIY opportunities out there where I’ve tinkered with car repair, bike repair, paddleboard repair (ever have a paddleboard blow a seam? It’s not pretty!), ski/snowboard maintenance, and other home projects. 
+      For some reason along the way, I’ve formed a habit of collecting Funko Pops (mostly Star Wars and Marvel, with a few popular TV show characters thrown in).
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Enough talking! I invite you to check out my Resume, reach out to Contact me or grab a coffee, and hopefully soon explore some GitHub Repositories that showcase my coding projects, scripts, and contributions as I continue to develop my programming skills. 
+      If you have any questions, or would like to discuss potential collaborations or opportunities, please feel free to reach out. Thank you for visiting and I hope you’ve found value in this page!
 
 # Footer
 footer_show_references: true
