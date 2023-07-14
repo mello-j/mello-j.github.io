@@ -31,10 +31,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hello and welcome to my Github page! My name is Justin and I'm an Online Course Technologist. I'm also a highly motivated and analytical professional with a diverse skill set in business analytics, project management, information technology, and customer support.
   This page aims to showcase some of my varied work experiences as well as professional and personal interests.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Analytics</mark>, <mark>Project Management</mark>, and am developing <mark>Programming Skills</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Professional Summary # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -42,16 +42,15 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: Resume
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: replace
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Throughout my career, I have demonstrated a strong ability to lead and manage projects to successful outcomes, focusing on efficient communication, collaboration, and strategy. These projects have varied from Higher Education (helping deliver University courses on tight timelines) to the corporate world (system critical transitions).
+          In all these experiences, I've learned that providing excellent support and communication throughout all stages of a project, to all involved stakeholders, is just as essential as the actual project "work"!
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
