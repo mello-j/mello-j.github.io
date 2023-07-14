@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: [Boise State University](https://www.boisestate.edu/about/)
+        title: Boise State University
         caption: 2022 - 2025 (expected)
         sub_title: BS Computer Science
         description: | # this will include new lines to allow paragraphs
@@ -66,7 +66,7 @@ content:
          So far my coursework includes: Calculus I, Calculus II, Discrete Mathematics, Computer Science I, Computer Science II, Software Development in C, Intro to Database Systems Usage, Intro to Version Control, Web Development, Navigating Computer Systems (Linux), and R programming.
          
       - layout: left
-        title: [Colorado Mesa University](https://www.coloradomesa.edu/about/index.html)
+        title: Colorado Mesa University
         caption: 2011 - 2013
         sub_title: BA in Criminal Justice Minor in Psychology
         description: | # this will include new lines to allow paragraphs
