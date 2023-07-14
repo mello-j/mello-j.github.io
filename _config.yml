@@ -31,7 +31,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hello and welcome to my Github page! My name is Justin and I'm an Online Course Technologist. I'm also a highly motivated and analytical professional with a diverse skill set in business analytics, project management, information technology, and customer support.
   This page aims to showcase some of my varied work experiences as well as professional and personal interests.
 
-  I am most skilled in: <mark>Analytics</mark>, <mark>Project Management</mark>, and am developing <mark>Programming Skills</mark>
+  I am most skilled in: <mark>Analytics</mark>, <mark>Project Management</mark>, and am developing <mark>Programming Skills</mark>. I'm currently working on a BS in Computer Science at Boise State University. <mark>Go Broncos!</mark>
 
 content:
   - title: Professional Summary # Title for the section
@@ -39,15 +39,6 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title: Resume
-            icon: fab fa-github
-            url: replace
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           Throughout my career, I have demonstrated a strong ability to lead and manage projects to successful outcomes, focusing on efficient communication, collaboration, and strategy. These projects have varied from Higher Education (helping deliver University courses on tight timelines) to the corporate world (system critical transitions).
           In all these experiences, I've learned that providing excellent support and communication throughout all stages of a project, to all involved stakeholders, is just as essential as the actual project "work"!
@@ -56,13 +47,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Online Course Technologist
         # link_text: boringcompany.com
         sub_title: Update me!
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
          blah blah blah
          
@@ -78,7 +66,7 @@ content:
 
          So far my coursework includes: Calculus I, Calculus II, Discrete Mathematics, Computer Science I, Computer Science II, Software Development in C, Intro to Database Systems Usage, Intro to Version Control, Web Development, Navigating Computer Systems (Linux), and R programming.
          
-      - layout: right
+      - layout: left
         title: Colorado Mesa University
         caption: 2011 - 2013
         sub_title: BA in Criminal Justice Minor in Psychology
@@ -88,14 +76,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Beyond my professional and educational pursuits, I am an Avid Skier and Snowboarder (averaging 40+ days on the hill a year!). Bogus Basin is one of the best values out there, but I’m always drawn to the Mountain ranges of the Teton, Wasatch, the Sierra Nevada, the Rockies, and a visit to the Blue over in Eastern Oregon. 
+      I’m still exploring the DIY opportunities out there where I’ve tinkered with car repair, bike repair, paddleboard repair (ever have a paddleboard blow a seam? It’s not pretty!), ski/snowboard maintenance, and other home projects. 
+      For some reason along the way, I’ve formed a habit of collecting Funko Pops (mostly Star Wars and Marvel, with a few popular TV show characters thrown in).
 
 # Footer
 footer_show_references: true
