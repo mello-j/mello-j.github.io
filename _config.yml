@@ -9,14 +9,14 @@ version: 2
 name: Justin Mello
 title: Online Course Technologist
 email: justin_mello@outlook.com
-website: www.github.com/mello-j/mello-j.github.io
+website: https://mello-j.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 github_username:  mello-j
-linkedin_username: jameswgrant
+linkedin_username: justin-mello-1625jm
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -28,7 +28,8 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello and welcome to my Github page! My name is Justin and I'm an Online Course Technologist. I'm also a highly motivated and analytical professional with a diverse skill set in business analytics, project management, information technology, and customer support.
+  This page aims to showcase some of my varied work experiences as well as professional and personal interests.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
