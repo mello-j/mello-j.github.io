@@ -58,7 +58,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          blah blah blah
 
-   - layout: left
+      - layout: left
         title: Transportation Analyst II
         sub_title: Boise Cascade
         caption: May 2015 - July 2021
