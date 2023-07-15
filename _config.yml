@@ -43,13 +43,26 @@ content:
           Throughout my career, I have demonstrated a strong ability to lead and manage projects to successful outcomes, focusing on efficient communication, collaboration, and strategy. These projects have varied from Higher Education (helping deliver University courses on tight timelines) to the corporate world (system critical transitions).
           In all these experiences, I've learned that providing excellent support and communication throughout all stages of a project, to all involved stakeholders, is just as essential as the actual project "work"!
 
+          For a brief accomplishments summary of my work career see the experiences section below. My full resume is available here: "[Justin Mello Resume](update link)"
+
+          If you like the resume format, please refer to the original template by Colin McIntosh (S&G CEO of Sheets & Giggles in Grand Junction, CO). His original blog post can be found here: "[Sheets & Giggles is the fastest growing startup in CO!](update link)"
+          If you like this GitHub pages theme, please view James Grant's GitHub page, where this theme "[Modern-Resume-Theme](https://github.com/sproogen)" is available among other super cool open-source projects!
+
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Online Course Technologist
-        sub_title: Update me!
-        caption: November 2017 - Present
+        sub_title: Boise State University
+        caption: August 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+         blah blah blah
+
+   - layout: left
+        title: Transportation Analyst II
+        sub_title: Boise Cascade
+        caption: May 2015 - July 2021
         description: | # this will include new lines to allow paragraphs
          blah blah blah
          
@@ -63,7 +76,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          After a significant formal education hiatus, I returned to school with the goal of completing a Bachelor of Science in Computer Science to expand my technical skills, knowledge of software development, databases, and mathematical analysis. I would like to integrate these skill sets and apply them in the business world while continuing my education into Graduate school.
 
-         So far my coursework includes: Calculus I, Calculus II, Discrete Mathematics, Computer Science I, Computer Science II, Software Development in C, Intro to Database Systems Usage, Intro to Version Control, Web Development, Navigating Computer Systems (Linux), and R programming.
+         So far my coursework includes Calculus I, Calculus II, Discrete Mathematics, Computer Science I, Computer Science II, Software Development in C, Intro to Database Systems Usage, Intro to Version Control, Web Development, Navigating Computer Systems (Linux), and R programming.
          
       - layout: left
         title: Colorado Mesa University
@@ -79,6 +92,9 @@ content:
       I’m still exploring the DIY opportunities out there where I’ve tinkered with car repair, bike repair, paddleboard repair (ever have a paddleboard blow a seam? It’s not pretty!), ski/snowboard maintenance, and other home projects. 
       For some reason along the way, I’ve formed a habit of collecting Funko Pops (mostly Star Wars and Marvel, with a few popular TV show characters thrown in).
 
+      Enough talking! I invite you to check out my Resume, reach out to Contact me or grab a coffee, and hopefully soon explore some GitHub Repositories that showcase my coding projects, scripts, and contributions as I continue to develop my programming skills. 
+      If you have any questions or would like to discuss potential collaborations or opportunities, please feel free to reach out. Thank you for visiting and I hope you’ve found value in this page!
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
