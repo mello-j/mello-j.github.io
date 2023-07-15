@@ -48,7 +48,6 @@ content:
           If you like the resume format, please refer to the original template by Colin McIntosh (S&G CEO of Sheets & Giggles in Grand Junction, CO). His original blog post can be found here: "[Sheets & Giggles is the fastest growing startup in CO!](update link)"
           If you like this GitHub pages theme, please view James Grant's GitHub page, where this theme "[Modern-Resume-Theme](https://github.com/sproogen)" is available among other super cool open-source projects!
 
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
