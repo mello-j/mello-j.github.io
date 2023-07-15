@@ -38,14 +38,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Career Highlights
         description: | # this will include new lines to allow paragraphs
           Throughout my career, I have demonstrated a strong ability to lead and manage projects to successful outcomes, focusing on efficient communication, collaboration, and strategy. These projects have varied from Higher Education (helping deliver University courses on tight timelines) to the corporate world (system critical transitions).
           In all these experiences, I've learned that providing excellent support and communication throughout all stages of a project, to all involved stakeholders, is just as essential as the actual project "work"!
 
-          For a brief accomplishments summary of my work career see the experiences section below. My full resume is available here: "[Justin Mello Resume](update link)"
+          For a brief accomplishments summary of my work career see the experiences section below. My full resume is available here: "[Justin Mello Resume](https://drive.google.com/file/d/1_wENuKx58rIsqt3AYoaayTsAHpBGYjbn/view?usp=sharing)"
 
-          If you like the resume format, please refer to the original template by Colin McIntosh (S&G CEO of Sheets & Giggles in Grand Junction, CO). His original blog post can be found here: "[Sheets & Giggles is the fastest growing startup in CO!](update link)"
+          If you like the resume format, please refer to the original template by Colin McIntosh (S&G CEO of Sheets & Giggles in Grand Junction, CO). His original blog post can be found here: "[Sheets & Giggles is the fastest growing startup in CO!](https://sheetsgiggles.com/blogs/news/sheets-and-giggles-fastest-growing-startup-in-colorado)"
           If you like this GitHub pages theme, please view James Grant's GitHub page, where this theme "[Modern-Resume-Theme](https://github.com/sproogen)" is available among other super cool open-source projects!
 
   - title: Experience # Title for the section
@@ -56,14 +56,20 @@ content:
         sub_title: Boise State University
         caption: August 2021 - Present
         description: | # this will include new lines to allow paragraphs
-         blah blah blah
+         In my role as an Online Course Technologist at Boise State University, I have the privilege of supporting various programs, including Cyber Operations, Genetic Counseling, and Profession and Continuing Education courses. This broad scope allows me to engage with a diverse range of subjects and educational initiatives.
+
+         My responsibilities encompass a wide range of tasks aimed at ensuring smooth course operations. This includes providing high-level support in course maintenance, design, accessibility, revised development, and course launch. I take pride in assisting instructors and faculty members in navigating the intricacies of the Canvas learning management system (LMS). Additionally, I offer training on basic Canvas LTI (Learning Technology Integration) usage and assist in troubleshooting technical issues related to Canvas and commonly used LTI tools.
+
+         Working in this role has afforded me the opportunity to develop strong project management skills. The dynamic nature of the position has also allowed me to interact with the Canvas REST API, enabling me to explore new scripting techniques and methods for automating tasks and increasing overall efficiency. This exposure to scripting and automation has been instrumental in enhancing my technical capabilities and finding innovative solutions to streamline workflows.
 
       - layout: left
         title: Transportation Analyst II
         sub_title: Boise Cascade
         caption: May 2015 - July 2021
         description: | # this will include new lines to allow paragraphs
-         blah blah blah
+         During my time at Boise Cascade, I gained extensive experience in various areas including Analytics, Project Management, Sales/Negotiation, Customer Support, Logistics/Operations, and Technical Support. Working within a dynamic department, I had the opportunity to contribute to a wide range of services provided by our team. This involved actively participating in growing internal knowledge, developing supporting documentation, conducting training sessions for both internal and external departments, and coordinating user testing of our systems with cross-functional teams.
+
+         One of my key responsibilities was overseeing the transportation reporting metrics, which were shared throughout the company, including with Executive Leadership. I ensured that accurate and meaningful transportation supply forecasts were provided and made myself available to address any questions or engage in discussions regarding transportation-related matters. Boise Cascade offered an environment that allowed me to blend and enhance a diverse set of skills, combining both soft and hard skills, which are essential in today's technology-driven positions. This experience provided a solid foundation for my professional growth and development.
          
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
